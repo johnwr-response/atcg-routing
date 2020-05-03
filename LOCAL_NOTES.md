@@ -4,6 +4,12 @@ npm install
 ng serve
 ```
 
+# Components
+```
+ng g c page-not-found --skipTests true
+```
+
+
 # Git
 ```
 git init
