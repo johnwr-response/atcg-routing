@@ -7,6 +7,7 @@ ng serve
 # Components
 ```
 ng g c page-not-found --skipTests true
+ng g c error-page --skipTests true
 ```
 
 
